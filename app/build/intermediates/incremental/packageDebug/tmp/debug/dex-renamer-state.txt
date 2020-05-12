@@ -1,0 +1,4 @@
+#Tue May 12 14:44:49 ICT 2020
+base.0=/Users/mac/Documents/applinhtinh/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
